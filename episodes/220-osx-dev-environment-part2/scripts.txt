@@ -1,0 +1,7 @@
+After you've installed iTerm2 with the Solarized theme,
+run the following scripts to bring down more changes that will improve your theme:
+
+$ cd ~
+$ curl -O https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.bash_profile
+$ curl -O https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.bash_prompt
+$ curl -O https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.aliases
