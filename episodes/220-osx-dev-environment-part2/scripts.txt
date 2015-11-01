@@ -1,13 +1,22 @@
 After you've installed iTerm2 with the Solarized theme,
-run the following scripts to bring down more changes that will improve your theme:
+You're ready to further enhance the color scheme through your bash profile settings.
+
+
+Run the following scripts to bring down more changes that will improve your theme:
 
 $ cd ~
 $ curl -O https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.bash_profile
 $ curl -O https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.bash_prompt
 $ curl -O https://raw.githubusercontent.com/nicolashery/mac-dev-setup/master/.aliases
 
-Note: I have added the above files to this project in case you just want to grab them straight up and copy them over from this project
-but you can also get the latest via curl above, up to you..quicker to just curl if you don't care
+OR
+
+copy the 3 files from this project (.aliases, .bash_profile, and .bash_prompt) to your home directory
+
+1) open up finder in OS X
+2) Do a Shift + Command + H
+3) copy those 3 files into the root there (which is your home directory)
+
 
 Other Resources
 
