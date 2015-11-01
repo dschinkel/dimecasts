@@ -18,7 +18,7 @@ Below are code and other related files for certain episodes on DimeCasts.net
 
 #Episode Files
 
-[Episode 220 - Setting up A Web Development Environment On OSX - Part 2]()
+[Episode 220 - Setting up A Web De()
 
 File Contents:
 - curl scripts for iTerm2 theme
