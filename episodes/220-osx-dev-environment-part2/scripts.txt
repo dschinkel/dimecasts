@@ -1,5 +1,3 @@
-Source:
-
 After you've installed iTerm2 with the Solarized theme,
 run the following scripts to bring down more changes that will improve your theme:
 
